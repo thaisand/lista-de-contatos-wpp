@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Seu app de lista de contatos',
+      title: 'Lista de contatos',
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
