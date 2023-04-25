@@ -1,16 +1,5 @@
-# lista_wpp
+# Lista de Contatos WhatApp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Um aplicativo para Android para listar alguns contatos de whatsapp. 
+O aplicativo lista 6 contatos previamente cadastrados com seus repectivos nomes, números de telefone e fotos de perfil. 
+Ao clicar no contato ele vai para outra página que exibe suas informações. 
